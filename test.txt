@@ -9,4 +9,4 @@ subplot(2,1,1), plot(n,h1);
 grid on; title('matlab');
 
 subplot(2,1,2), plot(n,h2);
-grid on; title('вручную');ss
+grid on; title('врfslkmdsklучную');ss
