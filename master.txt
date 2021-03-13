@@ -3,4 +3,10 @@ spipu ss
 ss
 pipu
 fichaflkfksnfkwdajawdn
+<<<<<<< HEAD
 lp
+=======
+
+pipu pipu 
+kek
+>>>>>>> 5b8eba8 (msg2)
