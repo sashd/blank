@@ -12,4 +12,3 @@ subplot(2,1,2), plot(n,h2);
 grid on; title('врfslkmdsklучную');ss
 
 ss
-sss s
